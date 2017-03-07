@@ -1,7 +1,5 @@
-Data and code for Kerdaffrec et al. 2016 - eLife
+Data and code for seed dormancy papers
 ==
-GR21_2010.rda phenotype.
+Kerdaffrec et al. 2016 - Multiple alleles at a single locus control seed dormancy in Swedish Arabidopsis - https://elifesciences.org/content/5/e22502
 
-CM78_X.rda genotype.
-
-CM78_K.rda kinship matrix.
+Kerdaffrec et al. 201? - The maternal environment interacts with genetic variation in controllong seed dormancy in Arabidopsis thaliana.
