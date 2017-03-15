@@ -1,4 +1,4 @@
-Data and code for Kerdaffrec et al. 201x
+Data for Kerdaffrec et al. 201x
 ==
 GR_replicates.rda = Germination rates for all replicates.
 
